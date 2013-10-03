@@ -1,9 +1,1 @@
-+Python 2.7.5+ (default, Sep 19 2013, 13:48:49) 
-+[GCC 4.8.1] on linux2
-+Type "copyright", "credits" or "license()" for more information.
-+# this was the only way I got it to work for me when I would try to
-+# print range(1,101) but i could not get it to add them.
-+
-+>>> print sum(range(1,101))
-+5050
-+>>> 
+Old
