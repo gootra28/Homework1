@@ -16,6 +16,7 @@ import math                     # makes the math.sqrt function availablea
 ### 
 
 print "Problem 1 solution follows:"
+# I set mt vareables to the values I wanted then I entered the equations
 a = 1
 b = -5.86
 c = 8.5408
@@ -30,7 +31,7 @@ print Solution2
 
 print "Problem 2 solution follows:"
 
-# ... write your code and comments here (and remove this line)
+# First I imported the hw1_test file then I printed the individual values of the letters
 import hw1_test
 
 print hw1_test.a
@@ -43,12 +44,13 @@ print hw1_test.f
 
 
 print "Problem 3 solution follows:"
+# I imported hw1_test again and wrote it out.
 import hw1_test
 print ((hw1_test.a and hw1_test.b) or (not hw1_test.c) and not (hw1_test.d or hw1_test.e or hw1_test.f))
 
 
-###
-### Collaboration
-###
+### Travis Goodroad
+### Ian Hooper
+### Alejandro
 
 # ... List your collaborators here, as a comment (on a line starting with "#").
